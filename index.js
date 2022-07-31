@@ -8,6 +8,8 @@ const dataUrl = File.readAsBase64('license.png'); // 'data:image/jpeg;base64,/9j
 const blob = Media.convertBase64ToBlob(dataUrl); // /9j/4AAQSk...
 
 /* 
+https://softwareengineering.stackexchange.com/a/368406
+
 You can calculate the file size (in bytes) using below formula:
 
 x = (n * (3/4)) - y
