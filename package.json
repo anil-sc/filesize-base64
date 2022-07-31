@@ -1,0 +1,24 @@
+{
+  "name": "filesize-base64",
+  "version": "1.0.0",
+  "description": "get filesize from base64 string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anil-sc/filesize-base64.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anil-sc/filesize-base64/issues"
+  },
+  "homepage": "https://github.com/anil-sc/filesize-base64#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "nodejs-shared": "^1.0.2"
+  }
+}
