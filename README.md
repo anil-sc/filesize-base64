@@ -8,3 +8,4 @@ cd filesize-base64
 npm install
 node -r esm index.js
 ```
+<img width="404" alt="image" src="https://user-images.githubusercontent.com/58759296/182021516-c6ee31ea-4057-4064-ae0d-6b36617aca03.png">
